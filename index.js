@@ -22,7 +22,7 @@ function divide(a, b) {
 
 
 function makeInt(a) {
-  return parseInt(a)
+  return parseInt(a, 10)
   }
 
 function preserveDecimal(a) {
